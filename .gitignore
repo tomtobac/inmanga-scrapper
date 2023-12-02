@@ -1,4 +1,4 @@
 node_modules
 mangas
 *-lock.*
-```
+.DS_Store
