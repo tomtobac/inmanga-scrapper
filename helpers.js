@@ -1,6 +1,6 @@
 import * as imgDownload from "image-downloader";
 import fs from "fs";
-import { API_URL } from "./constants";
+import { API_URL } from "./constants.js";
 
 const options = {
   method: "GET",
