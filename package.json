@@ -1,0 +1,17 @@
+{
+  "name": "inmanga-scrapper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "tasuku": "^2.0.1"
+  }
+}
